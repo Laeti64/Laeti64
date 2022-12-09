@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 Here is who I am: thanks to my great appetite for learning, I oriented myself in a self-taught way towards IT support into my company, solving bugs for the payroll consultant, developing customer projects and new features to ease the daily work of my colleagues.
+💬 Here is who I am: thanks to my great appetite for learning, I oriented myself in a self-taught way towards IT support into my company, solving bugs for the payroll consultants, developing customer projects and new features to ease the daily work of my colleagues.
 This aspect made me want to go further in this field, to learn new computer languages, and to acquire ever more skills.
 
 🌱 I'm currently learning **Javascript** at the Wild Code School of Biarritz, but also many concepts, languages, tools related to JS (**typescript, react, nextJS, nodeJS, prisma and others...**)
