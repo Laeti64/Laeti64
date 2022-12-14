@@ -16,7 +16,7 @@ Thanks for coming and have a nice day  :upside_down_face:
 <a href="https://www.codewars.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laetitia-decandt64200/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Un peu d'algo pour le fun à mes heures perdues:</h3>
+<h3 align="left">Un peu d'algo codewars pour le fun à mes heures perdues:</h3>
 
 [![Profile badge](https://www.codewars.com/users/Pupuce-64/badges/large)](https://www.codewars.com/users/Pupuce-64)
 
