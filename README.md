@@ -6,9 +6,6 @@ This aspect made me want to go further in this field, to learn new computer lang
 🌱 I'm currently learning **Javascript** at the Wild Code School of Biarritz, but also many concepts, languages, tools related to JS (**typescript, react, nextJS, nodeJS, prisma and others...**)
 But I already know I won't stop here and keep learning always more.
 
-👯 If someone come by here and want to give a chance to a newbie full of hope, notice that I have to make an **internship from february the 12th to end of march 2023**.
-I'll be delighted to show my motivation and my quick learning skill.
-
 Thanks for coming and have a nice day  :upside_down_face:
 
 <h3 align="left">Connect with me:</h3>
