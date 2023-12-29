@@ -3,10 +3,10 @@
 💬 Here is who I am: thanks to my great appetite for learning, I oriented myself in a self-taught way towards IT support into my company, solving bugs for the payroll consultants, developing customer projects and new features to ease the daily work of my colleagues.
 This aspect made me want to go further in this field, to learn new computer languages, and to acquire ever more skills.
 
-🌱 I'm currently learning **Javascript** at the Wild Code School of Biarritz, but also many concepts, languages, tools related to JS (**typescript, react, nextJS, nodeJS, prisma and others...**)
+🌱 I'm currently learning **Javascript** at the Wild Code School of Biarritz, but also many concepts, languages, tools related to JS (**typescript, react, nextJS, nodeJS, prisma, typeGraphQL, typeORM and others...**)
 But I already know I won't stop here and keep learning always more.
 
-Thanks for coming and have a nice day  :upside_down_face:
+Thanks for coming and have a nice day :upside_down_face:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,3 @@ Thanks for coming and have a nice day  :upside_down_face:
 <h3 align="left">Un peu d'algo codewars pour le fun à mes heures perdues:</h3>
 
 [![Profile badge](https://www.codewars.com/users/Pupuce-64/badges/large)](https://www.codewars.com/users/Pupuce-64)
-## Leveling System
-
-![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
